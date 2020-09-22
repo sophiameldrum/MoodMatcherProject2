@@ -170,6 +170,30 @@ text-align: center;
 text-align: center;
 }
 
+.demo{
+  margin-top: 12em;
+  margin-bottom: 12em;
+  height: 100%;
+  width: 100%;
+text-align: center;
+}
+
+.wt{
+  margin-top: 12em;
+  margin-bottom: 12em;
+  height: 100%;
+  width: 100%;
+text-align: center;
+}
+
+.reflection{
+  margin-top: 12em;
+  margin-bottom: 12em;
+  height: 100%;
+  width: 100%;
+text-align: center;
+}
+
 .user1 p {
 color: black;
 font-size: 120%;
