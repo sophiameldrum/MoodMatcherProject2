@@ -36,6 +36,34 @@ li a:hover {
   align-items: center;
 }
 
+.week1{
+  margin-top: 10em;
+  height: 100%;
+  width: 100%;
+text-align: center;
+}
+
+.week2{
+  margin-top: 10em;
+  height: 100%;
+  width: 100%;
+text-align: center;
+}
+
+.week3{
+  margin-top: 10em;
+  height: 100%;
+  width: 100%;
+text-align: center;
+}
+
+.week4{
+  margin-top: 10em;
+  height: 100%;
+  width: 100%;
+text-align: center;
+}
+
 .about{
   margin-top: 10em;
   height: 100%;
@@ -67,7 +95,7 @@ text-align: center;
 }
 
 .target{
-  margin-top: 10em;
+  margin-top: 15em;
   height: 100%;
   width: 100%;
 text-align: center;
